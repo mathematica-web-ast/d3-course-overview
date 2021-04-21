@@ -30,3 +30,17 @@ You will need ITS to install 1-3 if you do not have them already.
 - [**Week 5 |** Maps](https://github.com/mathematica-web-ast/d3-week5-static-charts-maps)
 - [**Week 6 |** Advanced Static Charts](https://github.com/mathematica-web-ast/d3-week6-static-charts-advanced)
 - [**Week 7 |** Dynamic Charts](https://github.com/mathematica-web-ast/d3-week7-dynamic-charts)
+
+## Expectations
+
+### Students
+
+There are no specific prerequisites for the course beyond some general experience working with data. No experience with JavaScript or web development is required, but all of the programming in the course and it's assignments will be in JavaScript. We will not spend much time covering basic JavaScript programming, but resources (including the first assignment) will be provided to help you learn how to program in JavaScript.
+
+Students will be expected to devote a significant amount of time to this course outside of the allotted class time. There will be weekly assignments of varying length and difficulty, but most will require multiple hours of work.
+
+In addition to attending classes and completing assignments, it is also expected and encouraged for students to be proactive in their learning. Please ask questions and give feedback early and often during classes and by email/phone/Jabber between classes.
+
+### Instructor
+
+Beyond providing informative lectures and assignments, the course instructors will be responsible for providing prompt and detailed feedback on assignments (as relevant). Additionally, they will be s accessible as possible for questions outside of class time, including scheduled office hours.
